@@ -1,0 +1,6 @@
+('THE', 'DT')
+('OLD', 'NNP')
+('WOMAN', 'NNP')
+('AND', 'CC')
+('THE', 'NNP')
+('CAT', 'NNP')
